@@ -47,6 +47,7 @@ p {
   background-color: #f05f40;
 }
 .bg-dark {
+  text-align: justify;
   background-color: #222222;
   color: white;
 }
